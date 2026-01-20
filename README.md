@@ -22,6 +22,11 @@
 
 <img width="1905" height="815" alt="image" src="https://github.com/user-attachments/assets/56bb9bdf-0db9-4652-8b47-03b9b76f20ad" />
 
+**demo image**
+
+![anaconda](https://github.com/user-attachments/assets/89d0ed6e-8da0-4238-917e-a51745d75a7d)
+
+
 
 
 
